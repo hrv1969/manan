@@ -1,0 +1,5 @@
+import Part
+s = Gui.Selection.getSelectionEx()
+p = s[0].Object.Shape
+p.Area
+
