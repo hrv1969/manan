@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="673.2mm" height="133.2mm" viewBox="0 0 673.2 133.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Pad" transform="translate(336.600000,66.600000) scale(1,-1)">
+<path id="Pad_f0000"  d="M -330.0 60.0 L -330.0 60.0 L 330.0 60.0 L 330.0 60.0 L -330.0 60.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<path id="Pad_f0001"  d="M 330.0 60.0 L 330.0 60.0 L 330.0 -60.0 L 330.0 -60.0 L 330.0 60.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<path id="Pad_f0002"  d="M 330.0 -60.0 L 330.0 -60.0 A 4955.5 4955.5 0 0 1 -330.0 -60.0 L -330.0 -60.0 A 4955.5 4955.5 0 0 0 330.0 -60.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<path id="Pad_f0003"  d="M -330.0 -60.0 L -330.0 -60.0 L -330.0 60.0 L -330.0 60.0 L -330.0 -60.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd "/>
+<circle cx="0.0" cy="0.0" r="40.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="101.0" cy="0.0" r="30.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="-101.0" cy="0.0" r="30.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="-216.5" cy="8.97605351809e-20" r="26.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="216.5" cy="-2.73691106313e-48" r="26.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="0.0" cy="0.0" r="40.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="0.0" cy="0.0" r="40.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<title>Pad</title>
+</g>
+</svg>
